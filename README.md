@@ -1,4 +1,4 @@
 # DEMO
-This is my first repo.
+This is my First repo.
 <br>
 Author-Vaibhav
